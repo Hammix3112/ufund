@@ -6,7 +6,7 @@ import Header from "./components/Header";
 import Investments from "./components/Investments";
 import Statistics from "./components/Statistics";
 import BuyHistoryTable from "./components/BuyHistoryTable";
-import BuyInvestHistory from "./components/buyInvestHistory";
+import BuyInvestHistory from "./components/BuyInvestHistory";
 import Charts from "./components/Charts";
 
 function App() {
